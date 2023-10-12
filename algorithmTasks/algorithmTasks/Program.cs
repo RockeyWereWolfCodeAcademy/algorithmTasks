@@ -1,4 +1,4 @@
-﻿namespace algorithmTasks
+namespace algorithmTasks
 {
     internal class Program
     {
@@ -20,9 +20,9 @@
             Console.WriteLine(fibonacciTwo);
             while (fibonacciThree < rightBoundary)
             {
+                fibonacciThree = fibonacciOne + fibonacciTwo;
                 fibonacciOne = fibonacciTwo;
                 fibonacciTwo = fibonacciThree;
-                fibonacciThree = fibonacciOne + fibonacciTwo;
                 Console.WriteLine(fibonacciThree);
                 if (fibonacciThree > rightBoundary)
                 {
