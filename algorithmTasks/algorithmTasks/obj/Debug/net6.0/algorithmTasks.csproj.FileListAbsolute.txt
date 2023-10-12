@@ -1,0 +1,14 @@
+C:\Users\User\algorithmTasks\algorithmTasks\bin\Debug\net6.0\algorithmTasks.exe
+C:\Users\User\algorithmTasks\algorithmTasks\bin\Debug\net6.0\algorithmTasks.deps.json
+C:\Users\User\algorithmTasks\algorithmTasks\bin\Debug\net6.0\algorithmTasks.runtimeconfig.json
+C:\Users\User\algorithmTasks\algorithmTasks\bin\Debug\net6.0\algorithmTasks.dll
+C:\Users\User\algorithmTasks\algorithmTasks\bin\Debug\net6.0\algorithmTasks.pdb
+C:\Users\User\algorithmTasks\algorithmTasks\obj\Debug\net6.0\algorithmTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\algorithmTasks\algorithmTasks\obj\Debug\net6.0\algorithmTasks.AssemblyInfoInputs.cache
+C:\Users\User\algorithmTasks\algorithmTasks\obj\Debug\net6.0\algorithmTasks.AssemblyInfo.cs
+C:\Users\User\algorithmTasks\algorithmTasks\obj\Debug\net6.0\algorithmTasks.csproj.CoreCompileInputs.cache
+C:\Users\User\algorithmTasks\algorithmTasks\obj\Debug\net6.0\algorithmTasks.dll
+C:\Users\User\algorithmTasks\algorithmTasks\obj\Debug\net6.0\refint\algorithmTasks.dll
+C:\Users\User\algorithmTasks\algorithmTasks\obj\Debug\net6.0\algorithmTasks.pdb
+C:\Users\User\algorithmTasks\algorithmTasks\obj\Debug\net6.0\algorithmTasks.genruntimeconfig.cache
+C:\Users\User\algorithmTasks\algorithmTasks\obj\Debug\net6.0\ref\algorithmTasks.dll
