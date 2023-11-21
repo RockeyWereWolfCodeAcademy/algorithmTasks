@@ -1,6 +1,6 @@
 # C# "Alghorithm" named task
 
-## Task Description
+## Description for the Tasks:
 
 #### 1) Print the Fibonacci sequence to the screen up to the given number or the nearest number greater than it.
    
